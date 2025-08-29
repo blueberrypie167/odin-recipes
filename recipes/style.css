@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    font-family:'Trebuchet MS';
+    background-color:rgb(255, 240, 220);
+}
+header{
+    background-color:rgb(255, 200, 118);
+    font-size: 64px;
+    box-sizing: border-box;
+    margin-bottom:10px;
+    padding: 8px;
+}
+section{
+    margin-left: 32px;
+    margin-bottom: 12px;
+}
